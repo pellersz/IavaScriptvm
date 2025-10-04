@@ -1,0 +1,48 @@
+"--------------\n\| \.S_SSSs    \|\n\| \.SS~SSSSS  \|\n\| S%S   SSSS \|\n\| S%S    S%S \|\n\| S%S SSSS%S \|\n\| S&S  SSS%S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*S    S&S \|\n\| S\*S    S\*S \|\n\| S\*S    S\*S \|\n\| SSS    S\*S \|\n\|        SP  \|\n\|        Y   \|\n--------------"
+
+"--------------\n\|  \.S_SSSs   \|\n\| \.SS~SSSSS  \|\n\| S%S   SSSS \|\n\| S%S    S%S \|\n\| S%S SSSS%P \|\n\| S&S  SSSY  \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*S    S&S \|\n\| S\*S    S\*S \|\n\| S\*S SSSSP  \|\n\| S\*S  SSY   \|\n\| SP         \|\n\| Y          \|\n--------------"
+
+"----------\n\|   sSSs \|\n\|  d%%SP \|\n\| d%S\'   \|\n\| S%S    \|\n\| S&S    \|\n\| S&S    \|\n\| S&S    \|\n\| S&S    \|\n\| S\*b    \|\n\| S\*S\.   \|\n\|  SSSbs \|\n\|   YSSP \|\n----------"
+
+"--------------\n\|  \.S_sSSs   \|\n\| \.SS~YS%%b  \|\n\| S%S   `S%b \|\n\| S%S    S%S \|\n\| S%S    S&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*S    d\*S \|\n\| S\*S   \.S\*S \|\n\| S\*S_sdSSS  \|\n\| SSS~YSSY   \|\n--------------"
+
+"----------\n\|   sSSs \|\n\|  d%%SP \|\n\| d%S\'   \|\n\| S%S    \|\n\| S&S    \|\n\| S&S_Ss \|\n\| S&S~SP \|\n\| S&S    \|\n\| S\*b    \|\n\| S\*S\.   \|\n\|  SSSbs \|\n\|   YSSP \|\n----------"
+
+"----------\n\|   sSSs \|\n\|  d%%SP \|\n\| d%S\'   \|\n\| S%S    \|\n\| S&S    \|\n\| S&S_Ss \|\n\| S&S~SP \|\n\| S&S    \|\n\| S\*b    \|\n\| S\*S    \|\n\| S\*S    \|\n\| S\*S    \|\n\| SP     \|\n\| Y      \|\n----------"
+
+"------------\n\|   sSSSSs \|\n\|  d%%%%SP \|\n\| d%S\'     \|\n\| S%S      \|\n\| S&S      \|\n\| S&S      \|\n\| S&S      \|\n\| S&S sSSs \|\n\| S\*b `S%% \|\n\| S\*S   S% \|\n\|  SS_sSSS \|\n\|   Y~YSSY \|\n------------"
+
+"--------------\n\|  \.S    S\.  \|\n\| \.SS    SS\. \|\n\| S%S    S%S \|\n\| S%S    S%S \|\n\| S%S SSSS%S \|\n\| S&S  SSS&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*S    S\*S \|\n\| S\*S    S\*S \|\n\| S\*S    S\*S \|\n\| SSS    S\*S \|\n\|        SP  \|\n\|        Y   \|\n--------------"
+
+"-------\n\|  \.S \|\n\| \.SS \|\n\| S%S \|\n\| S%S \|\n\| S&S \|\n\| S&S \|\n\| S&S \|\n\| S&S \|\n\| S\*S \|\n\| S\*S \|\n\| S\*S \|\n\| S\*S \|\n\| SP  \|\n\| Y   \|\n-------"
+
+"--------------\n\|  \.S    S\.  \|\n\| \.SS    SS\. \|\n\| S%S    S&S \|\n\| S%S    d\*S \|\n\| S&S   \.S\*S \|\n\| S&S_sdSSS  \|\n\| S&S~YSSY%b \|\n\| S&S    `S% \|\n\| S\*S     S% \|\n\| S\*S     S& \|\n\| S\*S     S& \|\n\| S\*S     SS \|\n\| SP         \|\n\| Y          \|\n--------------"
+
+"----------\n\| S\.     \|\n\| SS\.    \|\n\| S%S    \|\n\| S%S    \|\n\| S&S    \|\n\| S&S    \|\n\| S&S    \|\n\| S&S    \|\n\| S\*b    \|\n\| S\*S\.   \|\n\|  SSSbs \|\n\|   YSSP \|\n----------"
+
+"---------------\n\|  \.S_SsS_S\.  \|\n\| \.SS~S\*S~SS\. \|\n\| S%S `Y\' S%S \|\n\| S%S     S%S \|\n\| S%S     S%S \|\n\| S&S     S&S \|\n\| S&S     S&S \|\n\| S&S     S&S \|\n\| S\*S     S\*S \|\n\| S\*S     S\*S \|\n\| S\*S     S\*S \|\n\| SSS     S\*S \|\n\|         SP  \|\n\|         Y   \|\n---------------"
+
+"--------------\n\|  \.S_sSSs   \|\n\| \.SS~YS%%b  \|\n\| S%S   `S%b \|\n\| S%S    S%S \|\n\| S%S    S&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*S    S\*S \|\n\| S\*S    S\*S \|\n\| S\*S    S\*S \|\n\| S\*S    SSS \|\n\| SP         \|\n\| Y          \|\n--------------"
+
+"-----------------\n\|   sSSs_sSSs   \|\n\|  d%%SP~YS%%b  \|\n\| d%S\'     `S%b \|\n\| S%S       S%S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S\*b       d\*S \|\n\| S\*S\.     \.S\*S \|\n\|  SSSbs_sdSSS  \|\n\|   YSSP~YSSY   \|\n-----------------"
+
+"--------------\n\|  \.S_sSSs   \|\n\| \.SS~YS%%b  \|\n\| S%S   `S%b \|\n\| S%S    S%S \|\n\| S%S    d\*S \|\n\| S&S   \.S\*S \|\n\| S&S_sdSSS  \|\n\| S&S~YSSY   \|\n\| S\*S        \|\n\| S\*S        \|\n\| S\*S        \|\n\| S\*S        \|\n\| SP         \|\n\| Y          \|\n--------------"
+
+"-----------------\n\|   sSSs_sSSs   \|\n\|  d%%SP~YS%%b  \|\n\| d%S\'     `S%b \|\n\| S%S       S%S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S&S       S&S \|\n\| S\*b       d\*S \|\n\| S\*S\.     \.S\*S \|\n\|  SSSbs_sdSSSS \|\n\|   YSSP~YSSSSS \|\n-----------------"
+
+"--------------\n\|  \.S_sSSs   \|\n\| \.SS~YS%%b  \|\n\| S%S   `S%b \|\n\| S%S    S%S \|\n\| S%S    d\*S \|\n\| S&S   \.S\*S \|\n\| S&S_sdSSS  \|\n\| S&S~YSY%b  \|\n\| S\*S   `S%b \|\n\| S\*S    S%S \|\n\| S\*S    S&S \|\n\| S\*S    SSS \|\n\| SP         \|\n\| Y          \|\n--------------"
+
+"----------\n\|   sSSs \|\n\|  d%%SP \|\n\| d%S\'   \|\n\| S%|    \|\n\| S&S    \|\n\| Y&Ss   \|\n\| `S&&S  \|\n\|   `S\*S \|\n\|    l\*S \|\n\|   \.S\*P \|\n\| sSS\*S  \|\n\| YSS\'   \|\n----------"
+
+"-----------------\n\| sdSS_SSSSSSbs \|\n\| YSSS~S%SSSSSP \|\n\|      S%S      \|\n\|      S%S      \|\n\|      S&S      \|\n\|      S&S      \|\n\|      S&S      \|\n\|      S&S      \|\n\|      S\*S      \|\n\|      S\*S      \|\n\|      S\*S      \|\n\|      S\*S      \|\n\|      SP       \|\n\|      Y        \|\n-----------------"
+
+"--------------\n\|  \.S    S\.  \|\n\| \.SS    SS\. \|\n\| S%S    S%S \|\n\| S%S    S%S \|\n\| S&S    S%S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S&S    S&S \|\n\| S\*b    S\*S \|\n\| S\*S\.   S\*S \|\n\|  SSSbs_S\*S \|\n\|   YSSP~SSS \|\n--------------"
+
+"-----------\n\|  \.S S\.  \|\n\| \.SS SS\. \|\n\| S%S S%S \|\n\| S%S S%S \|\n\| S%S S%S \|\n\|  SS SS  \|\n\|   S_S   \|\n\|  SS~SS  \|\n\| S\*S S\*S \|\n\| S\*S S\*S \|\n\| S\*S S\*S \|\n\| S\*S S\*S \|\n\| SP      \|\n\| Y       \|\n-----------"
+
+"-----------\n\|  \.S S\.  \|\n\| \.SS SS\. \|\n\| S%S S%S \|\n\| S%S S%S \|\n\| S%S S%S \|\n\|  SS SS  \|\n\|   S S   \|\n\|   SSS   \|\n\|   S\*S   \|\n\|   S\*S   \|\n\|   S\*S   \|\n\|   S\*S   \|\n\|   SP    \|\n\|   Y     \|\n-----------"
+
+"----------------\n\|  sdSSSSSSSbs \|\n\|  YSSSSSSSS%S \|\n\|         S%S  \|\n\|        S&S   \|\n\|       S&S    \|\n\|       S&S    \|\n\|      S&S     \|\n\|     S\*S      \|\n\|    S\*S       \|\n\|  \.s\*S        \|\n\|  sY\*SSSSSSSP \|\n\| sY\*SSSSSSSSP \|\n----------------"
+
+"----\n----"
+
