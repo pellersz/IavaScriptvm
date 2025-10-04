@@ -24,7 +24,7 @@
         last_miniature = 0;
         if (
             value.length() == 1 && 
-            value[0] <= 'A' && 
+            value[0] >= 'A' && 
             value[0] <= 'Z' &&
             value[0] != 'J' &&
             value[0] != 'U' &&
@@ -283,7 +283,7 @@
 
 "-------------\n\| \.s    s\.  \|\n\|       SS\. \|\n\| sS    S%S \|\n\| SS    S%S \|\n\| SSSs\. S%S \|\n\| SS    S%S \|\n\| SS    `:; \|\n\| SS    ;,\. \|\n\| :;    ;:' \|\n-------------"/[a-ik-tvx-z]+         {write_token("TOTVM", "H"); return TOTVM;}
 
-"-------\n\| s\.  \|\n\| SS\. \|\n\| S%S \|\n\| S%S \|\n\| S%S \|\n\| S%S \|\n\| `:; \|\n\| ;,\. \|\n\| ;:' \|\n-------"/[ \t]                                                                                     {write_token("TOTVM", "I"); return TOTVM;}
+"-------\n\| s\.  \|\n\| SS\. \|\n\| S%S \|\n\| S%S \|\n\| S%S \|\n\| S%S \|\n\| `:; \|\n\| ;,\. \|\n\| ;:' \|\n-------"/[a-ik-tvx-z]+                                                                                     {write_token("TOTVM", "I"); return TOTVM;}
 
 "-------------\n\| \.s    s\.  \|\n\|       SS\. \|\n\| sS    S%S \|\n\| SS    S%S \|\n\| SSSSs\.S:' \|\n\| SS  \"SS\.  \|\n\| SS    `:; \|\n\| SS    ;,\. \|\n\| :;    ;:' \|\n-------------"/[a-ik-tvx-z]+       {write_token("TOTVM", "K"); return TOTVM;}      
 
@@ -444,7 +444,7 @@ idem/[ \t\n]                      {write_token("IDEM", ""); return IDEM;}
 
 
 
-negans                                                                  {write_token("NEGANS", ""); return NEGANS;}
+"negans"/[ \t]                                                          {write_token("NEGANS", ""); return NEGANS;}
 
 †([IVXLCDMYTREWQKJHGFBSA]+|O)\.(O*[IVXLCDMYTREWQKJHGFBSA]*)/[ \t\n\.]   {
     if(write_float_token(yytext)) {
