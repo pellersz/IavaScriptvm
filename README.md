@@ -1,6 +1,6 @@
 ## IavaScriptvm
 
-An esoteric programming language (meaning that it has no real life use) that I created at my university's compiler classes, Flex and Bison.
+An esoteric programming language (meaning that it has no real life use) that I created at my university's compiler classes, using Flex and Bison.
 It is made to imitate medieval catholic bibles, so it has some very strict formatting rules. Violation of the formatting rules will result in the compiler "excommunicating", "denouncing" the code written for being "blasphemous". 
 
 ### Features
@@ -24,4 +24,4 @@ I'll spare the details since nobody would care about it to be frank, if you are 
 
 ### Final thoughts
 
-I had way too much fun with this one, so I had to include it in my repo
+I had way too much fun with this one, so I had to include it in my repow
