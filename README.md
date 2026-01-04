@@ -50,7 +50,7 @@ Variable names can only have characters from the latin alphabet, meaning `u, j a
 Declaring variables is tricky. When declaring, the first letter of a variable is written with ascii art letters. Depending on the ascii art "font", the type of the variable is decided. Floats are declared with the `AMC AAA01` font, integers are declared with the `AMC Slash` font. These letters are boxed in with `-` and `|` characters for clarity. After writing the name of the variable, an assignment needs to be placed with the `et renascitvr vt` keyword which is followed by the expression whose value will be assigned to the variable.
 As an example, declaring an integer variable Temporalis with the value 0 would look like this:
 
-`-------------
+`-------------\n
 | .s5SSSSs. |
 |    SSS    |
 |    S%S    |
