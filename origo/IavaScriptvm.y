@@ -512,7 +512,7 @@ sanctae_instrvctiones: sanctae_instrvction NOVA_LINEA
 sanctae_instrvction: renascitvr
                    | conditione_instrvction
                    | repetition_instrvction
-                   | declaratio_instruction
+                   | declaratio_instrvction
                    | commvnicationis
 ;
 
@@ -597,7 +597,7 @@ declaratio: FRACTVM POST_NOMEN                          {
                                                             $$ = $2;
                                                         }     
 
-declaratio_instruction: declaratio FINIS_SENTENTIAE    
+declaratio_instrvction: declaratio FINIS_SENTENTIAE    
 
 renascitvr: declaratio RENASCITVR nvmervm_expressio FINIS_SENTENTIAE                                {
                                                       //cout << "fun: " << codice << endl << endl;
