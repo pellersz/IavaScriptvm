@@ -146,7 +146,11 @@ After this, the commands are written.
 
 Finally, a program is closed by the `Amen` keyword.
 
-examples can be found in the exempla folder.
+Examples can be found in the exempla folder.
+
+##### How to run your program
+
+Once your code is written, give the enm file to the creo.bat file script (or write a shell script which does the same things as the batch file if you use a real operating system)
 
 ### Final thoughts
 
