@@ -33,21 +33,29 @@ The keywords are verbose and need to be separated from eachother and from litera
 ##### Literals
 
 Literals for integers use an extended version of the roman numerals, the original roman numerals are made of the characters: I, V, X, L, C, D, M; these are extended with the characters: T, R, E, W, Q, K, H, G, F, B, S, A; these extend the numbers as one would expect them to.
+
 Literals also need to be preceded by the character †, furthermore 0 is represented by O. 
+
 So the integer 6421 would be represented by †TMCDXXI. Floats are similar, one needs to place a `.` after the whole part of the number then write the fractional part in the same manner. for example 1.1 would be †I.I
+
 Negative numbers need to be preceded by the `negans` keyword. 
+
 Array literals start with the keyword `haec est` and are followed by expressions which are divided by the keyword `et` and finished by the keyword `quae Domino servire vvlt`.
 
 ##### Commands
 
 Commands can be declarations, conditional blocks, loop blocks, value assignments, and I/O operations.
+
 Commands end with a `.` and are followed by a new line (and possibly additional white characters).
 
 ##### Variables
 
 IavaScriptvm is a strongly typed language with main 2 types (integers and floats), and arrays made of these. 
+
 Variable names can only have characters from the latin alphabet, meaning `u, j and w` cannot be used in them. The first letter is uppercase, the rest is lowercase.
+
 Declaring variables is tricky. When declaring, the first letter of a variable is written with ascii art letters. Depending on the ascii art "font", the type of the variable is decided. Floats are declared with the `AMC AAA01` font, integers are declared with the `AMC Slash` font. These letters are boxed in with `-` and `|` characters for clarity. After writing the name of the variable, an assignment needs to be placed with the `et renascitvr vt` keyword which is followed by the expression whose value will be assigned to the variable.
+
 As an example, declaring an integer variable Temporalis with the value 0 would look like this:
 
 <pre>
@@ -58,7 +66,7 @@ As an example, declaring an integer variable Temporalis with the value 0 would l
 |    S%S    |
 |    S%S    |
 |    S%S    |
-|    \`:;    |
+|    `:;    |
 |    ;,.    |
 |    ;:'    |
 -------------emporalis et renascitvr vt †O .
@@ -66,7 +74,8 @@ As an example, declaring an integer variable Temporalis with the value 0 would l
 
 Arrays are similar, but they have to declare their size by writing a numeral on the box, for example, declaring a float array of size 3810 would look like this:
 
-`M-----------M†
+<pre>
+M-----------M†
 | .S\_SSSs    X
 | .SS~SSSSS  |
 | S%S   SSSS |
@@ -82,9 +91,10 @@ M S&S  SSS%S |
 |        SP  |
 |        Y   |
 D------C-----Clba et renascitvr vt ....
-`
+</pre>
 
 For accessing an element of an array the `de` keyword is followed by the array then the `veni` keyword, than the index of the value is needed.
+
 For example accessing the 2nd element of the array Alba is expressed like so:
 `de Alba veni †II`
 
@@ -99,24 +109,31 @@ Comments are written beside the program. If there are comments a horizontal line
 ##### I/O operations
 
 Reading into a variable is done with the `Legamvs verba domini nostri` keyword followed by the variable.
+
 Writing a variable to the console is done with the `Lavdemvs dominvm in his verbis` keword followed by the expression whose value we want to write.
 
 ##### Truth values 
 
 One can check equality and inequality between two expressios with the keywords `idem` and `non est idem`.
+
 Logical and and logical or can be done with the keywords: `et` and `avt`.
 
 ##### Conditionals
 
 A conditional statement starts with the keyword `Si peccatvm`, followed by a truth expression to evaluate and the keyword `oportet vos poenitenter cvm` then a newline.
+
 After this, one can write commands that will only be evaluated if the the truth value is true.
+
 Optionally, an alternative branch to this can be started with the `Alivd` keyword and a newline.
+
 Finally, the conditional can be finished with the `et Dominvs dimittat vobis` keyword.
 
 ##### Loops
 
 A loop is started by the keyword: `Dvm non svnt sine` and a truth expression, followed by the `oportet vos poenitenter cvm` keyword
+
 Commands can be written like with conditionals 
+
 Finally, the loop can be finished with the `et Dominvs dimittat vobis` keyword.
 
 ##### The structure of a program
@@ -124,10 +141,14 @@ Finally, the loop can be finished with the `et Dominvs dimittat vobis` keyword.
 A IavaScriptvm program is written in multiple files with the extension `svm`, each file can have a maximum of 50 lines. A program also needs an enumeration file, which collects the files in order, by specifying the file paths.
 
 A IavaScriptvm program starts with the `LIBER` keyword, followed by the name of the author in the next line.
+
 After this, the commands are written. 
+
 Finally, a program is closed by the `Amen` keyword.
+
 examples can be found in the exempla folder.
 
 ### Final thoughts
 
-I had way too much fun with this one, so I had to include it in my repo
+I had way too much fun with this one, so I had to include it in my repos
+
